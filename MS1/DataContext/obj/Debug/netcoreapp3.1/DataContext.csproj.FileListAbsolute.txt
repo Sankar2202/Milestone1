@@ -1,0 +1,11 @@
+D:\ThomsunInfocare\Projects\EMS\DataContext\bin\Debug\netcoreapp3.1\DataContext.deps.json
+D:\ThomsunInfocare\Projects\EMS\DataContext\bin\Debug\netcoreapp3.1\DataContext.dll
+D:\ThomsunInfocare\Projects\EMS\DataContext\bin\Debug\netcoreapp3.1\DataContext.pdb
+D:\ThomsunInfocare\Projects\EMS\DataContext\bin\Debug\netcoreapp3.1\Models.dll
+D:\ThomsunInfocare\Projects\EMS\DataContext\bin\Debug\netcoreapp3.1\Models.pdb
+D:\ThomsunInfocare\Projects\EMS\DataContext\obj\Debug\netcoreapp3.1\DataContext.csprojAssemblyReference.cache
+D:\ThomsunInfocare\Projects\EMS\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfoInputs.cache
+D:\ThomsunInfocare\Projects\EMS\DataContext\obj\Debug\netcoreapp3.1\DataContext.AssemblyInfo.cs
+D:\ThomsunInfocare\Projects\EMS\DataContext\obj\Debug\netcoreapp3.1\DataContext.csproj.CopyComplete
+D:\ThomsunInfocare\Projects\EMS\DataContext\obj\Debug\netcoreapp3.1\DataContext.dll
+D:\ThomsunInfocare\Projects\EMS\DataContext\obj\Debug\netcoreapp3.1\DataContext.pdb
